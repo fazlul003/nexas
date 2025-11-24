@@ -1,0 +1,5 @@
+{
+  "name": "Arabian Market Store",
+  "description": "A full-featured e-commerce platform with a powerful admin dashboard, customizable themes, and SEO optimization. Features a simulated backend for full CRUD operations within the browser.",
+  "requestFramePermissions": []
+}
